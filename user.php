@@ -60,7 +60,7 @@
 							</div>
 							<div class="col-12 col-sm-12">
 							<label for="credit" class="mt">Credits : </label>
-							<input type="text" name="credit" id="credit" required>								
+							<input type="number" name="credit" id="credit" required>								
 							</div>
 
 						</div>

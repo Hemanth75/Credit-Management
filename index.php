@@ -54,7 +54,7 @@
 						<div class="row" style="padding-top: 20px;">
 							<div class="col-12 col-sm-12">
 							<label for="credit" class="mt">Enter Credit : </label>
-							<input type="text" name="credit" id="credit" required>								
+							<input type="number" name="credit" id="credit" required>								
 							</div>
 
 						</div>

@@ -42,6 +42,16 @@
 						";
 					break;
 				}
+				if($credit == 0){
+					echo"<div class='alert alert-danger' role='alert' style='width:300px;margin-left:10px;'>
+							  <strong><h1>You Entered Zero Credits</h1></strong>
+							  <h4>Enter more than zero </h4>
+							  </br>Click Here to go back to Home Page : <a href='index.php' class='alert-link'>HOME</a>.
+
+						</div>
+						";
+					break;	
+				}
 				if($credit < 0){
 					echo"<div class='alert alert-danger' role='alert' style='width:300px;margin-left:10px;'>
 							  <strong><h1>You Entered Negative Amount</h1></strong>
