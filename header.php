@@ -33,9 +33,6 @@
 		        <span class="icon-bar" style="background-color: black;"></span>
 		        <span class="icon-bar" style="background-color: black;"></span>                        
 		      </button>
-		      <div class='table-responsive' style="border-color:#E8F6F3 ">
-		      <a class="navbar-brand" href="index.php">CreditManagement</a>
-		  	  </div>
 		    </div>
 		    <div class="collapse navbar-collapse" id="myNavbar">
 		      <ul class="nav navbar-nav">
